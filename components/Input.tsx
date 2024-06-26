@@ -56,7 +56,7 @@ const Input: React.FC<InputProps> = ({id,
       peer-focus:scale-75
       peer-focus:-translate-y-3
       '
-      htmlFor={id}
+      htmlFor ={id}
       >
      {label}
       </label>
